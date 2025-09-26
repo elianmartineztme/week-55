@@ -1,0 +1,11 @@
+{
+  "app": "Week5 EC JSON Demo",
+  "version": "1.0.0",
+  "debug": true,
+  "timeoutSeconds": 5,
+  "owner": {
+    "name": "Elian Martinez",
+    "email": "elian@example.com"
+  },
+  "features": ["parse", "serialize", "pretty-print"]
+}
